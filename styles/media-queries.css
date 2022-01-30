@@ -1,0 +1,221 @@
+@media screen and (max-width: 1669px)  {
+
+.quotes {
+  height: 120px;
+  width: 500px;
+  margin-left: -96px;
+}
+
+}
+
+@media screen and (max-width: 1669px)  {
+.pfp {
+  margin-left: -120px;
+}
+}
+
+@media screen and (max-width: 1279px)  {
+
+  .pfp {
+    margin-top: -200px;
+    margin-left: -170px;
+    width: 300px;
+  }
+
+  .quotes {
+    height: 120px;
+    width: 500px;
+    margin-left: -88.5px;
+  }
+
+
+
+}
+
+@media screen and (max-width: 1023px)  {
+
+  .pfp {
+    margin-top: -200px;
+    margin-left: -320px;
+    width: 300px;
+  }
+
+
+
+}
+
+@media screen and (max-width: 901px)  {
+
+  .container {
+    margin-left: -175px;
+
+  }
+
+  .pfp {
+    margin-top: 0px;
+    margin-left: 235px;
+    width: 300px;
+  }
+
+  .menu {
+    margin-top: 120px;
+  }
+
+
+
+}
+
+@media screen and (max-width: 801px)  {
+
+  .container {
+    margin-left: -158px;
+
+  }
+
+  .pfp {
+    margin-top: 0px;
+    margin-left: 235px;
+    width: 300px;
+  }
+
+
+
+}
+
+@media screen and (max-width: 767px)  {
+
+  .pfp {
+    margin-top: 0px;
+    margin-left: 176px;
+    width: 300px;
+  }
+
+
+
+}
+
+@media screen and (max-width: 708px)  {
+
+.menu {
+  margin-top: 200px;
+}
+
+.pfp {
+    margin-top: 0px;
+    margin-left: 1.5px;
+    width: 300px;
+  }
+
+.container {
+  margin-left: -137px;
+  width: 300px;
+
+}
+
+@media screen and (max-width: 645px)  {
+
+.menu {
+  margin-top: 200px;
+}
+
+.container {
+  margin-left: -125px;
+  width: 300px;
+
+}
+}
+
+@media screen and (max-width: 570px)  {
+
+.menu {
+ margin-top: 200px;
+}
+
+.container {
+  margin-left: -110px;
+  width: 300px;
+
+}
+}
+
+@media screen and (max-width: 552px)  {
+
+.menu {
+  margin-top: 200px;
+}
+
+.container {
+  margin-left: -100px;
+  width: 300px;
+
+}
+
+.quotes {
+  height: 120px;
+  width: 458px;
+  margin-left: -77px;
+}
+}
+
+@media screen and (max-width: 550px)  {
+
+.container {
+    margin-left: -80px;
+  }
+
+.menu {
+    margin-top: 200px;
+  }
+
+.quotes {
+  margin-left: -102px;
+  height: 120px;
+  width: 500px;
+  }
+
+@media screen and (max-width: 530px)  {
+
+.container {
+  margin-left: -80px;
+  width: 300px;
+}
+
+.quotes {
+  margin-left: -111.5px;
+  height: 120px;
+  width: 500px;
+}
+
+.menu {
+  margin-top: 200px;
+}
+}
+
+@media screen and (max-width: 500px)  {
+
+.container {
+  margin-left: -85px;
+  width: 300px;
+}
+
+.quotes {
+  margin-left: -116px;
+  height: 120px;
+  width: 467px;
+}
+
+.menu {
+  margin-top: 200px;
+  margin-left: -30px;
+}
+}
+
+@media screen and (max-width: 465px)  {
+
+.quotes {
+  margin-left: -110px;
+  height: 120px;
+  width: 450px;
+}
+
+}

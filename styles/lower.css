@@ -1,0 +1,35 @@
+bold {
+    font-weight: 600;
+}
+
+white {
+    color: rgb(207, 207, 207);
+    font-weight: 600;
+}
+
+
+.saho {
+    color: #F73C65;
+    transition-duration: 500ms;
+}
+
+.saho:hover {
+    color: #ffb5bd;
+}
+
+
+.font-Roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-Lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.border {
+    margin:30px;
+    width: 400%;
+    height: 2px;
+    margin-left: 17.5%;
+    color: #F73C65;
+}

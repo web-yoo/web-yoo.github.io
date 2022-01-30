@@ -1,0 +1,17 @@
+.content, .header, .footer {
+    box-sizing: border-box;
+    margin-top: -1rem;
+    margin-left: -51rem;
+    padding: 5px;
+    width: 510%;
+}
+.header, .footer {
+    background: #F73C65;
+    color: #ffffff;
+    border-radius: 3px;
+}
+
+a2 {
+    font-size: 1.4rem;
+    margin-left: 54.4rem;
+}
